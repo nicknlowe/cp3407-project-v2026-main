@@ -28,7 +28,7 @@ Description-v1: e.g. The web site will show current deals to Orion's orbits user
 Display current food deals available when a user launches the app
 
 ## Priority: 10
-This feature is essential to the application being successful
+This feature is essential to the application being successful against its competitors
 
 ## Estimation: 6 days
 * Nick: 4 days
@@ -50,4 +50,26 @@ The application will showcase the current food deals to FeedMe's customers
 ## Assumptions
 The application will let FeedMe's customers checkout after selecting food to order
 
+# Users can search for food
 
+## Priority: 40
+
+## Estimation: 3 days
+* Nick: 3 days
+* Dean: 3 days
+* Gurjas: 3 days
+
+## Assumptions
+The application will allow FeedMe's customers to search for specific food choices easily
+
+# Food quality rating system (e.g. 1-5 stars)
+
+## Priority: 80
+
+## Estimation: 4 days
+* Nick: 5 days
+* Dean: 4 days
+* Gurjas: 4 days
+
+## Assumptions
+The application will let FeedMe's customers rate the quality of their ordered food to let others know
