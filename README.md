@@ -17,9 +17,9 @@ The following is the list of items, which are required to be completed.
 ## Team
 
 It is recommended to complete this assignment in a group of 2-4 students.
-1. Student 1
-2. Student name 2
-3. Name 3
+1. Nick Lowe
+2. Dean Berrie
+3. Gurjas Ranu
 4. Name 4
 
 
