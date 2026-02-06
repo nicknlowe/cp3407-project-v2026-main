@@ -1,39 +1,40 @@
-Create more md files like this one as needed. Place them into the same folder 
-as this [user_stories folder](./)
+# User Can Search For Food
 
-# User story title: e.g. Show current deals
+## Priority: High 
+This feature is a important for the main functionality and usability for the application, it will be required for the intial release of the application. It is planned for iteration 1 as its considered a core feature in allowing users to find what they'd like to order.
 
-Keep any other version here as well, e.g. Display current deals, Let user to click on "show-current-deals".
-
-## Priority: 10 (e.g. latest for iteration-1)
-Any notes on priority go here. 
-Note you may have different priorities at different stages of you project.
-Again, keep all changes here for marking.
-
-## Estimation: e.g. 2 days
-Any notes on estimation go here. Keep your planning poker game numbers. For example
-* Bob: 1 day (e.g. estimated before iteration-1)
-* Lisa: 2 days
-* Jack: 3 days
+## Estimation: e.g. 3 days
+Planning poker estimates 
+* Nick: 3 day 
+* Dean: 3 days
+* Gurjas: 3 days
 
 ## Assumptions (if any):
+* FeedMe already stores food items in a database or menu list.
+* Users will search using keywords such as food name or category.
+* Search results will display matching food items clearly.
+* Internet connection and backend services are functioning correctly.
 
-## Description: e.g. The web page will show current deals to Orion's orbits users
-You need to keep all versions here so that your instructor/marker can see your changes easily. 
-In a real project, your older versions could be viewed via commits.
+## Description: e.g. 
+Description-v1:
+The application will allow FeedMe customers to search for specific food items easily using a search bar, returning a list of matching results from the available menu.
 
-Description-v1: e.g. The web site will show current deals to Orion's orbits users
+## Tasks
 
-## Tasks, see chapter 4.
-
-1. Task 1, Estimation XX days
-2. ...
+1. Task 1 - Design search bar UI , Estimation 0.5 days
+2. Task 2 - Implement search functionality in backend/database query, Estimation 1 day
+3. Task 3 - Display filtered food results on screen, Estimation 0.5 days
+4. Task 4 - Test search accuracy and edge cases, Estimation 0.5 days
+5. Task 5 - Fix bugs and refine UI, Estimation 0.5 days
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+* A search bar at the top of the food menu screen.
+* Users type keywords and press Search or the Enter Key.
+* Matching food items appear in scrollable list below.
+* If no results items, display a message.
+  
+* [https://ninjamock.com/](https://ninjamock.com/)
 
 # Completed:
 * (New, not in the textbook) 
