@@ -1,11 +1,11 @@
-# Actual iteration-1 board, (see chapters 3 and 4), add your start and end dates 
+# Iteration-1 board, (see chapters 3 and 4), add your start and end dates 
 
 Checklist: 
 1. github entry timestamps
 2. User stories are correct: see p39
 
 * Assumed Velocity: ?? 
-* Number of developers: ??
+* Number of developers: 4
 * Total estimated amount of work: YY days
 
 User stories or tasks (see chapter 4):
