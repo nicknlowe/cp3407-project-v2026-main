@@ -20,7 +20,7 @@ It is recommended to complete this assignment in a group of 2-4 students.
 1. Nick Lowe
 2. Dean Berrie
 3. Gurjas Ranu
-4. NNikodem Ciolek
+4. Nikodem Ciolek
 
 
 # Project planning BEFORE iteration-1, (see chapters 1-3)
