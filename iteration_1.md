@@ -9,7 +9,7 @@ Checklist:
 * Total estimated amount of work: YY days
 
 User stories or tasks (see chapter 4):
-1. [user story or task title](user_stories/user_story_01.md), priority High, 3 days 
+1. [User Story 01](user_stories/user_story_01.md), priority High, 3 days 
 2. ...
 
 In progress:
