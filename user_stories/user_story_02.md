@@ -1,6 +1,3 @@
-Create more md files like this one as needed. Place them into the same folder 
-as this [user_stories folder](./)
-
 # User story title: Reviews
 
 User can add reviews in regard to product and quality and service of goods.
