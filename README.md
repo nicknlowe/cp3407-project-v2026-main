@@ -21,6 +21,7 @@ It is recommended to complete this assignment in a group of 2-4 students.
 2. Dean Berrie
 3. Gurjas Ranu
 4. Nikodem Ciolek
+5. Dylan Ryder (permission granted)
 
 
 # Project planning BEFORE iteration-1, (see chapters 1-3)
