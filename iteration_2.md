@@ -10,9 +10,9 @@ Checklist:
 
 User stories or tasks (see chapter 4):
 1.  Review user feedback and iteration 1 bugs
-2.  [User Story 02 - ](user_stories/user_story_02.md), priority ___ , time=
-3. [User Story 07 - ](user_stories/user_story_07.md), priority ___ , time=
-4. [User Story 09 - ](user_stories/user_story_09.md), priority ___ , time=
+2.  [User Story 02 - Reviews ](user_stories/user_story_02.md), priority Low , 3 days
+3. [User Story 07 - Accesibility Options ](user_stories/user_story_07.md), priority Low, 1 day
+4. [User Story 09 -  ](user_stories/user_story_09.md), priority ___ , time=
 5. [User Story 10 - ](user_stories/user_story_10.md), priority ___ , time= 
 6. ...
 
