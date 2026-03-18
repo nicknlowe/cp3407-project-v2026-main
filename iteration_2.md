@@ -4,7 +4,7 @@ Checklist:
 1. github entry timestamps
 2. User stories are correct: see p39
 
-* Assumed Velocity FROM iteration-1: 0.6 
+* Assumed Velocity FROM iteration-1: 0.8 
 * Number of developers: 5
 * Total estimated amount of work: YY days
 
