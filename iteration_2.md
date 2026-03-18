@@ -9,8 +9,12 @@ Checklist:
 * Total estimated amount of work: YY days
 
 User stories or tasks (see chapter 4):
-1. [user story or task title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+1. 
+2.  [User Story 02 - ](user_stories/user_story_02.md), priority ___ , time=
+3. [User Story 07 - ](user_stories/user_story_07.md), priority ___ , time=
+4. [User Story 09 - ](user_stories/user_story_09.md), priority ___ , time=
+5. [User Story 10 - ](user_stories/user_story_10.md), priority ___ , time= 
+6. ...
 
 In progress:
 * Task-2 (developer name or initials), date started
