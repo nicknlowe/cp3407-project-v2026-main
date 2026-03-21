@@ -17,12 +17,12 @@ User stories or tasks (see chapter 4):
 6. [User Story 08 - Order history & reordering](user_stories/user_story_08.md), priority Medium, 2 days
 
 In progress:
-~~* User Story 01 - GR, 14/02/2026~~
-~~* User Story 03 - DB, 14/02/2026~~
-~~* User Story 04 - NL, 14/02/2026~~
-~~* User Story 06 - NC, 14/02/2026~~
-~~* User Story 05 - NL, 21/02/2026~~
-~~* User Story 08 - GR, 24/02/2026~~
+* ~~User Story 01 - GR, 14/02/2026~~
+* ~~User Story 03 - DB, 14/02/2026~~
+* ~~User Story 04 - NL, 14/02/2026~~
+* ~~User Story 06 - NC, 14/02/2026~~
+* ~~User Story 05 - NL, 21/02/2026~~
+* ~~User Story 08 - GR, 24/02/2026~~
 
 Completed:
 * User Story 01 - GR, 24/02/2026
