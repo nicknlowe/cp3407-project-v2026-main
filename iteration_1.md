@@ -17,16 +17,20 @@ User stories or tasks (see chapter 4):
 6. [User Story 08 - Order history & reordering](user_stories/user_story_08.md), priority Medium, 2 days
 
 In progress:
-* User Story 01 - GR, 14/02/2026
-* User Story 03 - DB, 14/02/2026
-* User Story 04 - NL, 14/02/2026
-* User Story 06 - NC, 14/02/2026
-* User Story 05 - NL, 21/02/2026
-* User Story 08 - GR, 24/02/2026
+~~* User Story 01 - GR, 14/02/2026~~
+~~* User Story 03 - DB, 14/02/2026~~
+~~* User Story 04 - NL, 14/02/2026~~
+~~* User Story 06 - NC, 14/02/2026~~
+~~* User Story 05 - NL, 21/02/2026~~
+~~* User Story 08 - GR, 24/02/2026~~
 
 Completed:
-* Task-3 (developer name or initials), date completed
-* ...
+* User Story 01 - GR, 24/02/2026
+* User Story 03 - DB, 17/02/2026
+* User Story 04 - NL, 21/02/2026
+* User Story 06 - NC, 23/02/2026
+* User Story 05 - NL, 28/02/2026
+* User Story 08 - GR, 27/02/2026
 
 ### Burn Down for iteration-1 (see chapter 4):
 Update this at least once per week
