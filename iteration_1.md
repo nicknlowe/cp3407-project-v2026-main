@@ -15,11 +15,14 @@ User stories or tasks (see chapter 4):
 4. [User Story 05 - Tracking orders](user_stories/user_story_05.md), priority Medium, 5 days
 5. [User Story 06 - User can login](user_stories/user_story_06.md), priotity Medium, 4 days
 6. [User Story 08 - Order history & reordering](user_stories/user_story_08.md), priority Medium, 2 days
-7. [User Story 11 - Organisations can manage their page](user_stories/user_story_11.md), priority Medium, 3 days
 
 In progress:
-* Task-2 (developer name or initials), date started
-* ...
+* User Story 01 - GR, 14/02/2026
+* User Story 03 - DB, 14/02/2026
+* User Story 04 - NL, 14/02/2026
+* User Story 06 - NC, 14/02/2026
+* User Story 05 - NL, 21/02/2026
+* User Story 08 - GR, 24/02/2026
 
 Completed:
 * Task-3 (developer name or initials), date completed
