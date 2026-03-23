@@ -14,7 +14,10 @@ Also present on the navbar is a cart, along with an account/person symbol, allow
 When utilising the cart, end users are able to directly see how many items are present along with the total price. Once they are happy with the cart, users are able to quickly checkout at the bottom.<br>
 <img width="441" height="903" alt="image" src="https://github.com/user-attachments/assets/6309a423-8428-4d7d-b04a-fb60fb1d63b4" />
 
+To fully browse items to add to the cart, users can navigate to their one of the product categories or the 'Order Now' option which showcases items in a grid layout with the option to search, filter by price and category and sort by various options..<br>
+<img width="1571" height="772" alt="image" src="https://github.com/user-attachments/assets/35a43652-cfa5-4127-90b4-48ce6d653292" />
 
+Once in the checkout, users are prompted to fill out their details including contact and delivery information
 
 ## Iteration 1 - Client Feedback
 
