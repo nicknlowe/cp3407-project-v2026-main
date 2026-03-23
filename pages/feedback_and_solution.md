@@ -14,5 +14,11 @@ Also present on the navbar is a cart, along with an account/person symbol, allow
 When utilising the cart, end users are able to directly see how many items are present along with the total price. Once they are happy with the cart, users are able to quickly checkout at the bottom.<br>
 <img width="441" height="903" alt="image" src="https://github.com/user-attachments/assets/6309a423-8428-4d7d-b04a-fb60fb1d63b4" />
 
+
+
 ## Iteration 1 - Client Feedback
 
+* Add hover over add to cart system
+* Remove redundant links
+* Fix autofill system in cart
+* Add functional category link
