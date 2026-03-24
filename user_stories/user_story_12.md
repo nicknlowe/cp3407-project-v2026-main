@@ -26,7 +26,7 @@ Planning poker estimates:
 Description-v1:  
 The website will allow users to hover over a food item to quickly view details and add the item to their cart without navigating to a separate page.
 
-## Tasks, see chapter 4.
+## Tasks:
 
 1. Design hover UI effect for menu items, Estimation 0.5 days
 2. Implement hover detection using CSS/JavaScript, Estimation 0.5 days
