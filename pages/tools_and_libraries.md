@@ -7,4 +7,10 @@ Whilst WordPress would be utilised to develop the website, the team had to also 
 
 To manage the MariaDB instance that was to be created for the WordPress installation to store data, PHPMyAdmin was also installed onto the AWS EC2 instance due to its simplicity as a result of an easy-to-use user interface and the ability to easily access the software through the server's IP/domain name.
 
-## External Library
+## External Libraries
+
+To transform WordPress from a website builder to an eCommerce food delivery website, external libraries through the use of plugins were utilised. These included the following:
+
+* Astra - theme preset and customisation tools
+* Elementor - WYSIWYG website builder tools
+* WooCommerce - eCommerce platform tools
