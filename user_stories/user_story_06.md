@@ -3,11 +3,13 @@
 ## Priority: Medium 
 Users fill in their details to login to their account. This screen pops up as the first screen
 
-## Estimation: 4
+## Estimation: 4 days
 Planning poker estimates 
 * Nick: 5 day 
 * Dean: 3 days
 * Gurjas: 4 days
+* Nikodem: 3 days
+* Dylan: 5 days
 
 ## Assumptions (if any):
 * Need database to store login credentials
