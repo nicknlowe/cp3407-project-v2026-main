@@ -9,6 +9,7 @@
 * Dean: 2 days
 * Gurjas: 3 days
 * Nikodem: 2 days
+* Dylan: 3 days
 
 # Assumptions (if any):
 * Food items are already stored in the database.
