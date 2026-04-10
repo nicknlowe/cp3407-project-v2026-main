@@ -3,11 +3,13 @@
 ## Priority: Medium
 This feature is important for improving user convenience and encouraging repeat purchases, but it is not required for the initial system launch. Priority may increase in later iterations once core ordering functionality is stable.
 
-## Estimation: e.g. 2 days
+## Estimation: e.g. 3 days
 Planning poker estimates.
 * Dean: 2 day 
 * Gurjas: 2 days
 * Nick: 3 days
+* Nikodem: 3 days
+* Dylan: 2 days
 
 ## Assumptions (if any):
 * Users must be logged in to view their order history.
