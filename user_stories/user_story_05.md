@@ -3,10 +3,12 @@
 ## Priority: Medium (20)
 Whilst not essential to the functionality of the application to users, it would greatly improve the experience of the app and should be implemented in the first milestone.
 
-## Estimation: e.g. 5 days
+## Estimation: 5 Days
 * Nick: 4 days
 * Dean: 5 days
 * Gurjas: 5 days
+* Nikodem: 6 days
+* Dylan: 5 days
 
 ## Assumptions (if any):
 * When a user successfully places an order, he/she should be able to track the status and location of it
