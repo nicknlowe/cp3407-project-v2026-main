@@ -202,3 +202,7 @@ require_once ASTRA_THEME_DIR . 'inc/core/markup/class-astra-markup.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-filters.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-hooks.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-functions.php';
+
+if(! is_user_logged_in()) { // Check if user is logged out
+add_filter('woocommerce_checkout_get_value','__return_empty_string', 1, 1);
+}
