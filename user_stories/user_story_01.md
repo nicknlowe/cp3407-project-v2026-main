@@ -39,7 +39,8 @@ The application will allow FeedMe customers to search for specific food items ea
 * [https://ninjamock.com/](https://ninjamock.com/)
 
 # Completed:
-* ![test](https://imgur.com/a/rODm74w)
+* Search Function: https://imgur.com/a/rODm74w
+  
 
 
 
