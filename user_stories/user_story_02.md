@@ -7,12 +7,12 @@ Keep any other version here as well, e.g. Display current deals, Let user to cli
 ## Priority: Low 
 The priority for this system is low because it doesnt affect the idea of the app being a food delivery service, While having a review system is important for user satisfaction the app will run fine without reviews
 
-## Estimation: e.g. 2 days
+## Estimation: e.g. 3 days
 Any notes on estimation go here. Keep your planning poker game numbers. For example
 * Dean: 2 days
 * Nick: 4 days
 * Gurjas: 3 days
-* Nickdem: 3 days
+* Nikodem: 3 days
 * Dylan: 2 days
 
 ## Assumptions (if any):
