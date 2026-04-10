@@ -23,9 +23,12 @@ Description-v1: The web application will allow users to view a list of their pre
 
 ## Tasks, see chapter 4.
 
-1. Task 1, Estimation XX days
-2. ...
-
+Task 1 - Design order history page: 1 day
+Task 2 - Retrieve and display past orders from database: 1 day
+Task 3 - Restrict access to logged-in users: 0.5 day
+Task 4 - Implement reorder functionality: 1 day
+Task 5 - Allow editing before checkout: 0.5 day
+Task 6 - Test order history and reorder flow: 0.5 day
 
 # UI Design:
 * (New, not in the textbook) 
