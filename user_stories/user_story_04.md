@@ -7,6 +7,8 @@ This feature will is essential to the app and its competitiveness and thus will 
 * Nick: 5 days
 * Dean: 4 days
 * Gurjas: 5 days
+* Nikodem: 4 days
+* Dylan: 5 days
 
 ## Assumptions (if any):
 * Upon opening the application, FeedMe users will be able to immediately see the latest deals that have been set by partnering businesses
