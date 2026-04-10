@@ -12,6 +12,8 @@ Any notes on estimation go here. Keep your planning poker game numbers. For exam
 * Dean: 2 days
 * Nick: 4 days
 * Gurjas: 3 days
+* Nickdem: 3 days
+* Dylan: 2 days
 
 ## Assumptions (if any):
 - After a order/purchase is made users will be able to rate their product 1-5 stars and also their service 1-5 stars.
