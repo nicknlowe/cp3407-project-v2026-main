@@ -35,3 +35,4 @@
 * Insert screenshots after implementation.
 * Show iteration improvements if any.
 
+![image9](../images/story9.png)
