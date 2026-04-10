@@ -40,5 +40,5 @@ The application will allow FeedMe customers to search for specific food items ea
 
 # Completed:
 
-![image1](../images/MZMGm6f.png)
+![image1](../images/story1.png)
 
