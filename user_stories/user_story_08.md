@@ -3,11 +3,13 @@
 ## Priority: Medium
 This feature is important for improving user convenience and encouraging repeat purchases, but it is not required for the initial system launch. Priority may increase in later iterations once core ordering functionality is stable.
 
-## Estimation: e.g. 2 days
+## Estimation: e.g. 3 days
 Planning poker estimates.
 * Dean: 2 day 
 * Gurjas: 2 days
 * Nick: 3 days
+* Nikodem: 3 days
+* Dylan: 2 days
 
 ## Assumptions (if any):
 * Users must be logged in to view their order history.
@@ -21,9 +23,12 @@ Description-v1: The web application will allow users to view a list of their pre
 
 ## Tasks, see chapter 4.
 
-1. Task 1, Estimation XX days
-2. ...
-
+1. Task 1 - Design order history page: 1 day  
+2. Task 2 - Retrieve and display past orders from database: 1 day  
+3. Task 3 - Restrict access to logged-in users: 0.5 day  
+4. Task 4 - Implement reorder functionality: 1 day  
+5. Task 5 - Allow editing before checkout: 0.5 day  
+6. Task 6 - Test order history and reorder flow: 0.5 day  
 
 # UI Design:
 * (New, not in the textbook) 

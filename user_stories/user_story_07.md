@@ -7,6 +7,8 @@ This feature is not necessary and provides convenience for users of FeedMe.
 * Nick: 1 day
 * Dean: 1 day
 * Gurjas: 1 day
+* Nikodem: 1 day
+* Dylan: 1 day
 
 ## Assumptions (if any):
 * Users should be able to resize text and have a narrator speak out options to them

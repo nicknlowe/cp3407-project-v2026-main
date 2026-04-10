@@ -4,11 +4,12 @@
 # Priority: High
 * This is a core feature. It allows users to complete their purchase. Planned for the first iteration.
 
-# Estimation: 3 days
+# Estimation: 4 days
 * Nick: 3 days
 * Dean: 3 days
 * Gurjas: 4 days
 * Nikodem: 3 days
+* Dylan: 4 days
 
 # Assumptions (if any):
 * User has items in the cart.

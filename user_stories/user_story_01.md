@@ -3,11 +3,13 @@
 ## Priority: High 
 This feature is a important for the main functionality and usability for the application, it will be required for the intial release of the application. It is planned for iteration 1 as its considered a core feature in allowing users to find what they'd like to order.
 
-## Estimation: e.g. 3 days
+## Estimation:  3 Days
 Planning poker estimates 
 * Nick: 3 day 
 * Dean: 3 days
 * Gurjas: 3 days
+* Nikodem: 2
+* Dylan: 4
 
 ## Assumptions (if any):
 * FeedMe already stores food items in a database or menu list.
@@ -37,7 +39,6 @@ The application will allow FeedMe customers to search for specific food items ea
 * [https://ninjamock.com/](https://ninjamock.com/)
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+
+![image1](../images/story1.png)
 

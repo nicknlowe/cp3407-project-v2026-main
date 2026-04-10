@@ -9,6 +9,7 @@
 * Dean: 2 days
 * Gurjas: 3 days
 * Nikodem: 4 days
+* Dylan: 3
 
 # Assumptions (if any):
 * Restaurant owner has a registered account.

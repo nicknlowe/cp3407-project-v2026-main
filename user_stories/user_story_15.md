@@ -48,3 +48,5 @@ During testing, it was identified that the main "Shop By Category" link in the n
 * Screenshots showing working "Shop By Category" link.
 * Screenshots of category filtering in action.
 * Before and after comparison (non-functional vs fixed).
+
+![image15](../images/story15.png)
