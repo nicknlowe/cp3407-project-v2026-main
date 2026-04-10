@@ -8,11 +8,13 @@ Once selecting their order users can go to checkout and pay for their order.
 ## Priority: High 
 Checkout is essential for the app to run, so the priority is set to high.
 
-## Estimation: e.g. 2 days
+## Estimation: 8 Days
 Any notes on estimation go here. Keep your planning poker game numbers. For example
 * Dean: 6 days
 * Nick: 7 days
 * Gurjas: 9 days
+* Nikodem: 8
+* Dylan: 7
 
 ## Assumptions (if any):
 - Extensive testing will be required to avoid problems with payments
