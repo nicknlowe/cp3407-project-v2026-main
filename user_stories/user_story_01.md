@@ -40,7 +40,6 @@ The application will allow FeedMe customers to search for specific food items ea
 
 # Completed:
 * Search Function: https://imgur.com/a/rODm74w
-  
 
-
+![image1](../images/MZMGm6f.png)
 
