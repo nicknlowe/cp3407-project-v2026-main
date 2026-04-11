@@ -32,6 +32,7 @@ stimation 0.5 days
 
 
 # UI Design:
+<img width="1155" height="714" alt="story1-UI" src="https://github.com/user-attachments/assets/3bf8bc21-10fa-4328-b206-7e7375186fce" />
 
 
 # Completed:
