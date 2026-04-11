@@ -30,5 +30,5 @@ Description-v1: The application will showcase the latest food deals available to
 
 
 # Completed:
-<img width="590" height="388" alt="story4-completed" src="https://github.com/user-attachments/assets/7e3bad43-3835-46c2-abe1-995250c7d0e5" />
+<img width="1329" height="574" alt="story4-new" src="https://github.com/user-attachments/assets/20d10825-1a22-4762-9308-cd259bfc8c7b" />
 
