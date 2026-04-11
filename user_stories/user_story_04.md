@@ -26,12 +26,9 @@ Description-v1: The application will showcase the latest food deals available to
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+<img width="642" height="509" alt="story4-UI" src="https://github.com/user-attachments/assets/71bf2895-9170-49d5-976e-d51798b774c7" />
+
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+<img width="590" height="388" alt="story4-completed" src="https://github.com/user-attachments/assets/7e3bad43-3835-46c2-abe1-995250c7d0e5" />
 
