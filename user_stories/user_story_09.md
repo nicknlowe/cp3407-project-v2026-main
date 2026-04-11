@@ -25,10 +25,8 @@
 * Display cart page with selected items, Estimation 0.5 days
 
 # UI Design:
-* Each food item has an “Add to Cart” button.
-* Cart icon at top right showing number of items.
-* Cart page shows list of selected items and total price.
-* Mockup created in NinjaMock.
+<img width="1536" height="1024" alt="userstory9" src="https://github.com/user-attachments/assets/e73f676a-9ae0-4f4c-bbd7-ec047dd9673b" />
+
 
 # Completed:
 * Insert screenshots after implementation.
