@@ -35,11 +35,9 @@ Description-v1: The web site will allow users to review orders based on quality 
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+<img width="1345" height="649" alt="story2-UI" src="https://github.com/user-attachments/assets/a7e1fe54-0ec2-4a7a-b2e7-1fc5224db22e" />
+
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+<img width="1296" height="548" alt="story2-completed" src="https://github.com/user-attachments/assets/12051dbf-4a7b-4ccc-8635-6255e698b361" />
+
