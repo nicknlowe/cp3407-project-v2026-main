@@ -39,4 +39,7 @@ The website will remove redundant or duplicate links from navigation menus and p
 * No repeated links across pages.
 
 # Completed:
-* Screenshots showing navigation before and after cleanup.
+Before:
+<img width="1329" height="443" alt="beforesitelinks" src="https://github.com/user-attachments/assets/c2615e00-25bc-4416-a58e-d108edcb3dae" />
+After:
+<img width="1271" height="451" alt="aftersitelinks" src="https://github.com/user-attachments/assets/aaef4fb8-6ba7-4b2d-9da8-83a786323135" />
