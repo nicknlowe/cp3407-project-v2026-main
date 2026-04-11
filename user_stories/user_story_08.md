@@ -35,6 +35,4 @@ Description-v1: The web application will allow users to view a list of their pre
 
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+<img width="1243" height="378" alt="orderhistory" src="https://github.com/user-attachments/assets/93737ed4-28ce-4fa7-b918-c59f78e7e722" />
