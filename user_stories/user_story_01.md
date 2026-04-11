@@ -25,18 +25,14 @@ The application will allow FeedMe customers to search for specific food items ea
 
 1. Task 1 - Design search bar UI , Estimation 0.5 days
 2. Task 2 - Implement search functionality in backend/database query, Estimation 1 day
-3. Task 3 - Display filtered food results on screen, Estimation 0.5 days
+3. Task 3 - Display filtered food results on screen, E![Uploading Screenshot 2026-04-11 at 10.28.00 am.png…]()
+stimation 0.5 days
 4. Task 4 - Test search accuracy and edge cases, Estimation 0.5 days
 5. Task 5 - Fix bugs and refine UI, Estimation 0.5 days
 
 
 # UI Design:
-* A search bar at the top of the food menu screen.
-* Users type keywords and press Search or the Enter Key.
-* Matching food items appear in scrollable list below.
-* If no results items, display a message.
-  
-* [https://ninjamock.com/](https://ninjamock.com/)
+
 
 # Completed:
 
