@@ -32,5 +32,4 @@
 
 
 # Completed:
-* Insert screenshots after implementation.
-* Show iteration improvements if any.
+<img width="626" height="628" alt="placeorder" src="https://github.com/user-attachments/assets/e5b167e8-4f79-498e-af31-97ba2bf1fb5e" />
