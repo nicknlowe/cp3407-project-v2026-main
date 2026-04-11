@@ -28,10 +28,9 @@ The application will open with the login page that will allow users to login and
 
 
 # UI Design:
-* 
+<img width="1025" height="637" alt="story6-UI2" src="https://github.com/user-attachments/assets/7cc2d248-ed7f-4f44-b063-54f4bedfcbdb" />
+
 
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+<img width="1299" height="768" alt="story6-completed" src="https://github.com/user-attachments/assets/62d36f30-cfcf-4618-8f23-4a46d2998e70" />

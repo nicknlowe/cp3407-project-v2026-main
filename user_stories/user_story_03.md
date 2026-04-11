@@ -36,13 +36,9 @@ Description-v1: The web page will allow users to pay for their order and receive
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+<img width="823" height="706" alt="story3-UI" src="https://github.com/user-attachments/assets/fc25f6bd-4180-498d-8819-ab5edd6e968a" />
+
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
 
 ![image3](../images/story3.png)

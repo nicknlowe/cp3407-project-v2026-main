@@ -1,4 +1,3 @@
-# User story title
 * User can add food to the cart
 
 # Priority: High
