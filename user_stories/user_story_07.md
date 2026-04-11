@@ -23,9 +23,8 @@ Description-v1: The application will display accessibility options to help FeedM
 
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+<img width="1536" height="1024" alt="userstory7" src="https://github.com/user-attachments/assets/b315c646-11d5-4bc9-b61c-abbdc8cd58fb" />
+
 
 # Completed:
 * (New, not in the textbook) 
