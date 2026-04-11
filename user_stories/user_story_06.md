@@ -28,7 +28,7 @@ The application will open with the login page that will allow users to login and
 
 
 # UI Design:
- <img width="1077" height="680" alt="story6-UI" src="https://github.com/user-attachments/assets/9534d28b-7a16-4a22-ae23-a46dfd976e87" />
+<img width="1025" height="637" alt="story6-UI2" src="https://github.com/user-attachments/assets/7cc2d248-ed7f-4f44-b063-54f4bedfcbdb" />
 
 
 
