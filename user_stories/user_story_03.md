@@ -36,6 +36,7 @@ Description-v1: The web page will allow users to pay for their order and receive
 
 
 # UI Design:
+<img width="823" height="706" alt="story3-UI" src="https://github.com/user-attachments/assets/fc25f6bd-4180-498d-8819-ab5edd6e968a" />
 
 
 # Completed:
