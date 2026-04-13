@@ -26,10 +26,8 @@
 * Test permissions and functionality, Estimation 0.5 days
 
 # UI Design:
-* Dashboard page showing list of menu items.
-* Buttons: Add Item, Edit, Delete.
-* Simple form with fields for name, price, description, and image.
-* Mockup created in NinjaMock.
+<img width="1622" height="1071" alt="userstory11" src="https://github.com/user-attachments/assets/052550b5-5b5d-472b-9132-7a6ee29170ee" />
+
 
 # Completed:
 * Insert screenshots after implementation.

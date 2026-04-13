@@ -31,11 +31,8 @@ Description-v1: The web application will allow users to view a list of their pre
 6. Task 6 - Test order history and reorder flow: 0.5 day  
 
 # UI Design:
-* (New, not in the textbook) 
-* Many user stories are connected to a User interface.
-* Insert a mockup design screenshot using any prototyping tools, e.g. [https://ninjamock.com/](https://ninjamock.com/)
+<img width="1536" height="1024" alt="userstory8" src="https://github.com/user-attachments/assets/0307c2f8-fbf4-4eb2-8ade-20c9968b95fc" />
+
 
 # Completed:
-* (New, not in the textbook) 
-* Insert screenshots of completed. 
-* If you have multiple versions (changes between iteractions), show them all.
+<img width="1243" height="378" alt="orderhistory" src="https://github.com/user-attachments/assets/93737ed4-28ce-4fa7-b918-c59f78e7e722" />

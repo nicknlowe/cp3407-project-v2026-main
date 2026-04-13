@@ -28,12 +28,8 @@
 * Test full checkout process and fix bugs, Estimation 0.5 days
 
 # UI Design:
-* Checkout page shows selected items and total price.
-* Delivery address section.
-* “Place Order” button at bottom of page.
-* Confirmation message after successful order.
-* Mockup created in NinjaMock.
+<img width="1536" height="1024" alt="userstory10" src="https://github.com/user-attachments/assets/d3114640-7ee5-42bb-91c5-4b03702d01d6" />
+
 
 # Completed:
-* Insert screenshots after implementation.
-* Show iteration improvements if any.
+<img width="626" height="628" alt="placeorder" src="https://github.com/user-attachments/assets/e5b167e8-4f79-498e-af31-97ba2bf1fb5e" />

@@ -42,15 +42,19 @@ Total: YY days
 * Update the following during each week prac session
 * During pracs, you may experiment with using other github ways of tracking changes, e.g. via pull requests.
 
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+1. [user story 1 - Users can search for their food](./user_stories/user_story_01.md), priority high, 3 days 
+2. [user story 3 - Let users checkout their order](./user_stories/user_story_03.md), priority high, 2 days
+3. [user story 4 - Show current food deals](./user_stories/user_story_04.md), priority high, 5 days
+4. [user story 5 - Tracking orders](./user_stories/user_story_05.md), priority medium, 5 days
+5. [user story 6 - Users can login](./user_stories/user_story_06.md), priority medium, 4 days
+6. [user story 8 - Order history and reordering](./user_stories/user_story_08.md), priority medium, 2 days 
 
-Total: YY days
+Total: 22 days
 
 
 ### Iteration 2 [duration 3-4 weeks], add your start and end dates
 Goal is to have 2 iterations during a trimester of teaching.
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
+1. [user story 6 - Users can login](./user_stories/user_story_06.md), priority medium, 4 days
 2. ...
 
 Total: YY days
