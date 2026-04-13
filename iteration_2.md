@@ -11,11 +11,12 @@ Checklist:
 
 User stories or tasks (see chapter 4):
 1. Review user feedback and fix iteration-1 bugs, priority High, 3 days
-   * Fix autofill system in cart - DB
-   * Remove redundant links - DR
-   * Add functional category link - GR
-   * Add hover over add to cart system - Niko
+   * [User Story 14 - Fix autofill system in cart](user_stories/user_story_14.md) - DB
+   * [User Story 13 - Remove redundant links](user_stories/user_story_13.md) - DR
+   * [User Story 15 - Add functional category link](user_stories/user_story_15.md) - GR
+   * [User Story 12 - Add hover over add to cart system](user_stories/user_story_12.md) - Niko
 2. [User Story 07 - Accessibility Options](user_stories/user_story_07.md), priority Low, 1 day
+3. [User Story 02 - Reviews](user_stories/user_story_02.md), priority Low, 3 days
 
 In progress:
 * ~~Review feedback / Fix autofill system in cart - DB, 20/03/2026~~
