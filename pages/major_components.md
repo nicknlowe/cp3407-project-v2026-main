@@ -89,6 +89,12 @@ Payments are handled in a separate table, allowing each order to have a tracked 
 
 <img width="1926" height="1196" alt="image" src="https://github.com/user-attachments/assets/773752c3-4b53-4b59-85bc-1478dede1379" />
 
+The home page wireframe was designed with a focus on clarity, familarity and ease of navigation, all of which are important qualities for a food delivery storefront.
+
+For all pages, the header places the logo on the left, the site title centrally and the cart and account icons on the right. This follows a widely recognised e-commerce layout convention, meaning users can orient themselves immediately without any learning curve. The cart icon in particular is placed prominently so users always have quick access to their order. The navigation bar includes the Home, Order, Category, The Story/About and Support, covering the core needs of a customer: browsing, ordering, learning about the brand and getting help if necessary. Keeping the navigation bar minimal and horizontal ensures it is uncluttered and easy to scan.
+
+For the home page explicitly, the brief tagline and 'Start Your Order!' call-to-action button are placed high on the page, above the fold. This is to primarily assist first-time visitor should immediately understand what the site does and where to order, 
+
 ### Order Page
 
 <img width="1930" height="1196" alt="image" src="https://github.com/user-attachments/assets/69289e36-2d88-4e99-8f9a-033bd07b5de8" />
