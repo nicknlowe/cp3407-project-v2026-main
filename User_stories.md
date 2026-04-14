@@ -12,3 +12,5 @@
 * [User Story 13 - Remove redundant links](user_stories/user_story_13.md), priority Low, 1 day
 * [User Story 14 - Fix autofill system in cart](user_stories/user_story_14.md), priority High, 1 day
 * [User Story 15 - Add functional category link](user_stories/user_story_15.md), priority Medium, 2 days
+
+User stories 9 and 10 were very similar to the existing ones, resulting in them being dropped.
