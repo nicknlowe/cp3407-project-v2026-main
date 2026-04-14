@@ -44,4 +44,6 @@ Whilst we could not fully achieve a straight 'add to cart' feature upon a mouse 
 <img width="1145" height="471" alt="image" src="https://github.com/user-attachments/assets/51e7b722-5105-4916-942a-e9d0d166cae5" />
 
 Now that the client's requests were dealt with, the team were able to move onto implementing items from the iteration, with one of the features being the ability to add reviews to products for a site moderator to approve so that other customers were able to get a more informed idea of the product's quality.<br>
-<img width="1536" height="818" alt="image" src="https://github.com/user-attachments/assets/400a06e7-8c1e-447a-b7c5-ce7770bc4773" />
+<img width="1536" height="818" alt="image" src="https://github.com/user-attachments/assets/400a06e7-8c1e-447a-b7c5-ce7770bc4773" /><br>
+<img width="1461" height="573" alt="image" src="https://github.com/user-attachments/assets/ef6960d4-0171-4c89-b987-2335e486cd5a" />
+
