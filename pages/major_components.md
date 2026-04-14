@@ -93,7 +93,11 @@ The home page wireframe was designed with a focus on clarity, familarity and eas
 
 For all pages, the header places the logo on the left, the site title centrally and the cart and account icons on the right. This follows a widely recognised e-commerce layout convention, meaning users can orient themselves immediately without any learning curve. The cart icon in particular is placed prominently so users always have quick access to their order. The navigation bar includes the Home, Order, Category, The Story/About and Support, covering the core needs of a customer: browsing, ordering, learning about the brand and getting help if necessary. Keeping the navigation bar minimal and horizontal ensures it is uncluttered and easy to scan.
 
-For the home page explicitly, the brief tagline and 'Start Your Order!' call-to-action button are placed high on the page, above the fold. This is to primarily assist first-time visitor should immediately understand what the site does and where to order, 
+For the home page explicitly, the brief tagline and 'Start Your Order!' call-to-action button are placed high on the page, above the fold. This is to primarily assist first-time visitor should immediately understand what the site does and where to order, allowing the user to quickly get to the product page.
+
+The 'Tonight's Deals' and 'Popular Near You' sections use a grid of image placeholders to showcase products. This mirrors patterns used by established platforms like Uber Eats and Doordash, creating a sense of familarity. These sections also serve a commercial purpose as surfacing these deals encourages impulse purchases, while personalised or location-based suggestions improve relevance for the user.
+
+Overall, the layout prioritises simplicity and conversion as it gets the user from landing on the page to placing an order with as little friction as possible.
 
 ### Order Page
 
