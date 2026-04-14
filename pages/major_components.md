@@ -121,6 +121,16 @@ Overall, this design allows users to browse casually or filter intentionally dep
 
 <img width="1927" height="1195" alt="image" src="https://github.com/user-attachments/assets/5fd33cca-249c-4ad0-8790-09dc68d3e70d" />
 
+The Story page wireframe is designed to communicate trust, brand identity, and purpose, rather than facilitate direct purchasing. 
+
+The main content begins with a simple title (“The Story!”) followed by a paragraph explaining the purpose of FeedMe. This section is written in a conversational tone, highlighting the company’s mission to reduce service fees and provide a fairer delivery experience. The placement of this text near the top ensures users understand the brand values early, helping build credibility and emotional connection.
+
+Below the written story, there is a large visual placeholder image intended to reinforce branding and make the page more engaging. This breaks up the text and improves readability.
+
+Further down, a “Statistics” section is included, suggesting space for key metrics such as number of users, deliveries completed, or partner restaurants. This section helps add legitimacy and scale to the platform, reinforcing that FeedMe is an active and growing service.
+
+Overall, the page balances storytelling with minimal design elements to keep the focus on brand identity and trust-building rather than transactional interaction.
+
 ### Support Page
 
 <img width="1928" height="1199" alt="image" src="https://github.com/user-attachments/assets/f5478273-501a-41cd-ad61-39ce6ac8dd3b" />
