@@ -39,4 +39,4 @@ Update this at least once per week
 * 2 weeks left, 7 days
 * 1 week left, 4 days
 * 0 weeks left, 1 day remaining (US07 not completed)
-* Actual Velocity: 0.08 
+* Actual Velocity: 0.08 (9 days completed ÷ (22 calendar days × 5 developers))
