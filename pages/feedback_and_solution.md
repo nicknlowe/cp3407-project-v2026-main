@@ -31,3 +31,17 @@ To track or order an order again, users are required to create an account prior 
 * Add functional category link
 
 When iteration 1 was presented to our client, Jarod, he expressed that the design was more than good enough but requested additions to specific elements of the shop including the addition of a hover-over cart so that users didn't have to click on the item to add it to the cart. Whilst he was checking out a few items, he also noticed a bug that gone unnoticed in testing, where the last logged in user's details persist in the ordering fields, requiring an immediate fix for iteration 2. This was also when he discovered the many redundant links that were present in the footer, along with a non-functional main 'Shop By Category' link in the navigation bar. Created with that intention by our team, Jarod expressed that he felt it should be functional and allow his users to access a page where they could select a category from as well as removing any non-pointing footer links.
+
+## Iteration 2 - Demonstration
+
+Taking the feedback given from Iteration 1 from our client and testing, it was clear that some changes had to be done to the design to accomodate for the client's requests. The first change that was done was removing the non-functional 'Shop by Category' button, with the team choosing to move all the submenus to the 'Order Now' option.<br>
+<img width="596" height="392" alt="image" src="https://github.com/user-attachments/assets/bcdfa03d-d724-4286-8afd-f8ad19681944" />
+
+The next request made by the client was the removal of all redundant links to clear up any potential confusion, citing that it was better that there was less clutter than filling up empty space with non-functional links. To achieve this, our team removed all redundant links that could be found, including the footer, which was where most of the issues laid.<br>
+<img width="1534" height="422" alt="image" src="https://github.com/user-attachments/assets/d51ff370-1f14-4593-828f-eb76a1036dc0" />
+
+Whilst we could not fully achieve a straight 'add to cart' feature upon a mouse hoverover, the team were able to produce a quick view when hovering over the product item. and thus a quick cart add upon clicking the button. This feature would most likely have to be reviewed by the client for further feedback and approval for future iterations.<br>
+<img width="1145" height="471" alt="image" src="https://github.com/user-attachments/assets/51e7b722-5105-4916-942a-e9d0d166cae5" />
+
+Now that the client's requests were dealt with, the team were able to move onto implementing items from the iteration, with one of the features being the ability to add reviews to products for a site moderator to approve so that other customers were able to get a more informed idea of the product's quality.<br>
+<img width="1536" height="818" alt="image" src="https://github.com/user-attachments/assets/400a06e7-8c1e-447a-b7c5-ce7770bc4773" />
