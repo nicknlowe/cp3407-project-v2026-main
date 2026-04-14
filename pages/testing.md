@@ -16,9 +16,10 @@ We also planned to use a variety of test data, including valid, invalid, and bou
 
 In practice, we partially followed our planned approach:
 
-- TDD was used for some components, particularly smaller logic-based features, but not consistently across the entire project  
-- Unit testing was applied to key functionality of the site
-- Integration and system testing were performed
+- TDD was used for some components, particularly smaller logic-based features, but not consistently across the entire project
+- Unit testing was applied to key functionality of the site using test product, business and user data to verify that components handled regular use cases
+- System testing was performed by manually testing complete user workflows, such as browsing products, adding items to the cart, and completing the checkout process to ensure the system worked end-to-end
+- Integration testing was performed by testing interactions between components such as the frontend, backend, and database. For example, we tested adding items to the cart, ensuring data was correctly passed and stored
 - Acceptance testing was conducted through client demonstrations at the end of each iteration
 
 Through this approach, we were able to discover issues with certain components like the payment processing early enough to address them before they affected dependent features, though some defects were identified later in development due to inconsistent TDD adoption.
