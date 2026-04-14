@@ -1,6 +1,6 @@
 # CP3407 Project - Testing Explanation
 
-## Testing Approach
+## Initial Testing Approach
 
 At the start of the project, we planned to use a structured testing strategy including:
 
@@ -19,27 +19,38 @@ In practice, we partially followed our planned approach:
 - TDD was used for some components, particularly smaller logic-based features, but not consistently across the entire project  
 - Unit testing was applied to key functionality of the site
 - Integration and system testing were performed
-- Acceptance testing was conducted through client demonstrations at the end of each iteration  
+- Acceptance testing was conducted through client demonstrations at the end of each iteration
 
-## Client Feedback (Iteration 1)
+Through this approach, we were able to discover issues with certain components like the payment processing early enough to address them before they affected dependent features, though some defects were identified later in development due to inconsistent TDD adoption.
+
+## Client Feedback - Iteration 1
 
 During the Iteration 1 demonstration, our client identified several issues:
 
-- Add hover-over “add to cart” functionality  
-- Fix autofill bug where previous user details persisted  
-- Remove redundant footer links  
-- Implement a functional “Shop by Category” page  
+- Autofill bug where previous user details persisted
+- Redundant footer links
+- Non-functional 'Shop by Category' navigation link
 
 This revealed that some issues were not detected during internal testing, particularly the autofill bug. It demonstrated the importance of acceptance testing and real user interaction.
 
-## Improvements Based on Testing
+## Improvements Based on Testing - Iteration 1
 
 Following testing and feedback, we:
 
-- fixed bugs identified during client use  
-- improved usability and navigation  
-- ensured features aligned more closely with user expectations  
+- Fixed the autofill bug to ensure that previous user details no longer persist between sessions, preventing unintended data carryover
+- Removed the redundant footer links to improve navigation clarity and reduce unncessary clutter in the UI
+- Moved the submenus of the 'Shop by Catgeory' menu link to the main 'Order Now' navigation option and removed the 'Shop by Category' menu
+
+## Testing Approach - Iteration 2
+
+Building on the lessons learned from Iteration 1, we refined our testing approach for Iteration 2 with a greater emphasis on consistency and coverage:
+
+- TDD was applied more consistently across new features developed in this iteration, informed by the gaps identified when the autofill bug was missed during internal testing
+- Unit testing continued to be applied to key functionality, with additional test cases written to cover edge cases and scenarios that were previously overlooked
+- Integration testing was performed to verify that the navigation changes, particularly the restructuring of the 'Shop by Category' menu into the 'Order Now' option, worked correctly across the site
+- System testing was conducted on complete user workflows to ensure that changes made following Iteration 1 feedback did not introduce regressions
+- Acceptance testing was again carried out through a client demonstration at the end of the iteration, with closer attention paid to user interaction scenarios that internal testing may not anticipate
 
 ## Conclusion
 
-While our initial testing plan was comprehensive, it was only partially implemented in practice. However, combining internal testing with client feedback allowed us to identify issues, improve the system, and better meet project requirements.
+While our testing approach was not always executed as consistently as initially planned, the combination of internal testing and iterative client feedback proved effective in identifying and resolving issues throughout the project. Acceptance testing in particular demonstrated its value when client demonstrations surfaced defects that internal testing had not caught, such as the autofill bug discovered in Iteration 1. Across both iterations, our testing efforts allowed us to progressively improve the system's functionality, usability, and reliability. Each round of feedback informed targeted fixes and refinements, ensuring the product better aligned with client expectations over time.
