@@ -109,6 +109,14 @@ The main section consists of repeated dish cards, each structured with an image 
 
 <img width="1927" height="1196" alt="image" src="https://github.com/user-attachments/assets/21d7cdfe-1793-4b16-a3c8-5560c2117bbb" />
 
+The category page wireframe is designed to support exploration and fast filtering of food options. The consistent header and navigation bar remain at the top.
+
+The main focus of the page begins with a “Shop by Category!” section, followed by clearly defined category buttons such as Groceries, Liquor, Meals, and Pharmaceuticals. These buttons are spaced evenly and presented in a simple, minimal style to encourage quick interaction without overwhelming the user. This approach allows users to immediately narrow down their search rather than scrolling through large lists of items.
+
+Below the category filters, the page displays a product grid showing multiple items per row. Each item includes a placeholder image, name, and price, providing enough information for quick scanning while keeping the layout clean. The grid structure is efficient for browsing large inventories, and the pagination indicator (“Showing Meals 1–8 of 67”) helps users understand scale and progress within the catalogue.
+
+Overall, this design allows users to browse casually or filter intentionally depending on their needs.
+
 ### The Story Page
 
 <img width="1927" height="1195" alt="image" src="https://github.com/user-attachments/assets/5fd33cca-249c-4ad0-8790-09dc68d3e70d" />
