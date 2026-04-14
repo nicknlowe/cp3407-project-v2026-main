@@ -1,1 +1,148 @@
 # CP3407 Project - Major Components Explanation
+
+## Overview
+
+FeedMe's architecture was designed with scalability, maintainability, and user experience as core principles. Our design choices reflect modern web development practices while ensuring robust functionality.
+
+## Architectural Design
+
+<img width="602" height="939" alt="architecturaldesign" src="https://github.com/user-attachments/assets/4d9909d1-c7a7-4869-947d-07c8d24a7fba" />
+
+This architecture shows a simple, cloud-based setup for our FeedMe food app. The frontend (user’s device) communicates securely through Amazon CloudFront, which handles caching and protection before routing requests to the backend. Payments are processed via Stripe, while core application data (orders, users, restaurants) is stored in an Amazon RDS instance, with phpMyAdmin used for database administration.
+
+## Database Design
+
+```mermaid
+erDiagram
+    USER {
+        int user_id PK
+        string name
+        string email
+        string password_hash
+        string role "user | admin"
+        date date_created
+    }
+    RESTAURANT {
+        int restaurant_id PK
+        string name
+        string description
+        string address
+        string contact_number
+        float rating
+    }
+    MENUITEM {
+        int item_id PK
+        int restaurant_id FK "RESTAURANT.restaurant_id"
+        string name
+        string description
+        float price
+        string image_url
+        boolean availability_status
+    }
+    ORDER {
+        int order_id PK
+        int user_id FK "USER.user_id"
+        int restaurant_id FK "RESTAURANT.restaurant_id"
+        float total_amount
+        string payment_status
+        string order_status
+        date created_at
+    }
+    ORDERITEM {
+        int order_item_id PK
+        int order_id FK "ORDER.order_id"
+        int item_id FK "MENUITEM.item_id"
+        int quantity
+        float subtotal
+    }
+    DELIVERYTRACKING {
+        int tracking_id PK
+        int order_id FK "ORDER.order_id"
+        string status "Placed | Preparing | Out for Delivery | Delivered"
+        date last_updated
+    }
+    PAYMENT {
+        int payment_id PK
+        int order_id FK "ORDER.order_id"
+        string stripe_transaction_id
+        float amount
+        string payment_method
+        string payment_status
+        date timestamp
+    }
+    USER ||--o{ ORDER : "places"
+    RESTAURANT ||--o{ MENUITEM : "offers"
+    ORDER ||--o{ ORDERITEM : "contains"
+    MENUITEM ||--o{ ORDERITEM : "referenced in"
+    ORDER ||--|| DELIVERYTRACKING : "has"
+    ORDER ||--|| PAYMENT : "has"
+```
+
+The ER diagram above defines how data flows through our FeedMe app at a relational level. A user creates an order tied to a specific restaurant, and each order is broken down into multiple order items, which link back to individual menu items (resolving the many-to-many relationship between orders and menu items). Restaurants manage their own menu items, including pricing and availability, while each order stores totals and status information.
+Payments are handled in a separate table, allowing each order to have a tracked transaction (e.g., via Stripe), including payment status and method. Delivery tracking is also separated, enabling real-time updates (placed, preparing, out for delivery, delivered) without modifying the main order record. Overall, the design keeps data modular, scalable, and easy to query for key features like order history, live tracking, and restaurant management.
+
+## Interface Design
+
+[Interface Design NinjaMock](https://ninjamock.com/s/558WWZx)
+
+### Home Page
+
+<img width="1926" height="1196" alt="image" src="https://github.com/user-attachments/assets/773752c3-4b53-4b59-85bc-1478dede1379" />
+
+The home page wireframe was designed with a focus on clarity, familarity and ease of navigation, all of which are important qualities for a food delivery storefront.
+
+For all pages, the header places the logo on the left, the site title centrally and the cart and account icons on the right. This follows a widely recognised e-commerce layout convention, meaning users can orient themselves immediately without any learning curve. The cart icon in particular is placed prominently so users always have quick access to their order. The navigation bar includes the Home, Order, Category, The Story/About and Support, covering the core needs of a customer: browsing, ordering, learning about the brand and getting help if necessary. Keeping the navigation bar minimal and horizontal ensures it is uncluttered and easy to scan.
+
+For the home page explicitly, the brief tagline and 'Start Your Order!' call-to-action button are placed high on the page, above the fold. This is to primarily assist first-time visitor should immediately understand what the site does and where to order, 
+
+### Order Page
+
+<img width="1930" height="1196" alt="image" src="https://github.com/user-attachments/assets/69289e36-2d88-4e99-8f9a-033bd07b5de8" />
+
+The order page wireframe is designed to prioritise quick decision making and smooth product selection, which is essential for a food delivery experience. At the top of the page, the standard header layout is maintained.
+
+Below the navigation bar, the page introduces a clear restaurant context line (“Restaurant Name | Estimated Time | Rating”), giving users immediate information about delivery expectations and quality before they begin browsing. This helps reduce uncertainty and supports faster ordering decisions.
+
+The main section consists of repeated dish cards, each structured with an image placeholder on the left, followed by the dish name, short description, and price. This layout mirrors common food delivery platforms, making it intuitive for users. On the right side of each card is a clearly separated “Add to Cart” button, ensuring that the primary action is always visible and easy to complete. This design allows users to compare items quickly.
+
+### Category Page
+
+<img width="1927" height="1196" alt="image" src="https://github.com/user-attachments/assets/21d7cdfe-1793-4b16-a3c8-5560c2117bbb" />
+
+The category page wireframe is designed to support exploration and fast filtering of food options. The consistent header and navigation bar remain at the top.
+
+The main focus of the page begins with a “Shop by Category!” section, followed by clearly defined category buttons such as Groceries, Liquor, Meals, and Pharmaceuticals. These buttons are spaced evenly and presented in a simple, minimal style to encourage quick interaction without overwhelming the user. This approach allows users to immediately narrow down their search rather than scrolling through large lists of items.
+
+Below the category filters, the page displays a product grid showing multiple items per row. Each item includes a placeholder image, name, and price, providing enough information for quick scanning while keeping the layout clean. The grid structure is efficient for browsing large inventories, and the pagination indicator (“Showing Meals 1–8 of 67”) helps users understand scale and progress within the catalogue.
+
+Overall, this design allows users to browse casually or filter intentionally depending on their needs.
+
+### The Story Page
+
+<img width="1927" height="1195" alt="image" src="https://github.com/user-attachments/assets/5fd33cca-249c-4ad0-8790-09dc68d3e70d" />
+
+The Story page wireframe is designed to communicate trust, brand identity, and purpose, rather than facilitate direct purchasing. 
+
+The main content begins with a simple title (“The Story!”) followed by a paragraph explaining the purpose of FeedMe. This section is written in a conversational tone, highlighting the company’s mission to reduce service fees and provide a fairer delivery experience. The placement of this text near the top ensures users understand the brand values early, helping build credibility and emotional connection.
+
+Below the written story, there is a large visual placeholder image intended to reinforce branding and make the page more engaging. This breaks up the text and improves readability.
+
+Further down, a “Statistics” section is included, suggesting space for key metrics such as number of users, deliveries completed, or partner restaurants. This section helps add legitimacy and scale to the platform, reinforcing that FeedMe is an active and growing service.
+
+Overall, the page balances storytelling with minimal design elements to keep the focus on brand identity and trust-building rather than transactional interaction.
+
+### Support Page
+
+<img width="1928" height="1199" alt="image" src="https://github.com/user-attachments/assets/f5478273-501a-41cd-ad61-39ce6ac8dd3b" />
+
+The Support page wireframe is designed to provide users with clear and accessible ways to get in touch with the platform.
+
+The page begins with a prominent heading (“Stay in touch”), which immediately signals the purpose of the page and encourages users to reach out for help or enquiries.
+
+Beneath the heading, there are clearly structured placeholders for key contact information, including email, phone number, and physical address. These details are arranged in a clean and easy-to-scan format, allowing users to quickly identify the most suitable method of communication depending on their needs. 
+
+Further down the page, a Google Maps location placeholder is included to visually represent the business’s physical presence. This helps users easily locate the organisation and adds an extra layer of trust and legitimacy to the platform.
+
+At the bottom of the page, a small FAQ section is provided to address common questions and reduce the need for direct support requests. 
+
+Overall, the Support page is designed to balance clarity and convenience, making it easy for users to find help while reinforcing transparency and reliability.
