@@ -1,7 +1,7 @@
 # FeedMe! Web Application
 
-This a project assignment template for CP3407. 
-The following is the list of items, which are required to be completed.
+Project Website: http://54.252.194.219/
+GitHub Pages:
 
 ## How to submit [You may delete this before submitting]
 
@@ -20,7 +20,6 @@ It is recommended to complete this assignment in a group of 2-4 students.
 
 
 # Project planning
-* [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
 * [User Story 01 - Users can search for food](user_stories/user_story_01.md), priority High, 3 days
 * [User Story 02 - Users can leave reviews](user_stories/user_story_02.md), priority Low, 3 days
 * [User Story 03 - Let users checkout their order](user_stories/user_story_03.md), priority High, 2 days
@@ -66,5 +65,3 @@ Total: 4 days
 # Actual iterations
 1. [Iteration-1](./iteration_1.md)
 2. [Iteration-2](./iteration_2.md)
-
-
