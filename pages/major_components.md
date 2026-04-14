@@ -99,6 +99,12 @@ For the home page explicitly, the brief tagline and 'Start Your Order!' call-to-
 
 <img width="1930" height="1196" alt="image" src="https://github.com/user-attachments/assets/69289e36-2d88-4e99-8f9a-033bd07b5de8" />
 
+The order page wireframe is designed to prioritise quick decision making and smooth product selection, which is essential for a food delivery experience. At the top of the page, the standard header layout is maintained.
+
+Below the navigation bar, the page introduces a clear restaurant context line (“Restaurant Name | Estimated Time | Rating”), giving users immediate information about delivery expectations and quality before they begin browsing. This helps reduce uncertainty and supports faster ordering decisions.
+
+The main section consists of repeated dish cards, each structured with an image placeholder on the left, followed by the dish name, short description, and price. This layout mirrors common food delivery platforms, making it intuitive for users. On the right side of each card is a clearly separated “Add to Cart” button, ensuring that the primary action is always visible and easy to complete. This design allows users to compare items quickly.
+
 ### Category Page
 
 <img width="1927" height="1196" alt="image" src="https://github.com/user-attachments/assets/21d7cdfe-1793-4b16-a3c8-5560c2117bbb" />
