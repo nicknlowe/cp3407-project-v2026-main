@@ -12,13 +12,14 @@ At the start of the project, we planned to use a structured testing strategy inc
 
 We also planned to use a variety of test data, including valid, invalid, and boundary inputs, to ensure reliability.
 
-## Actual Testing Performed
+## The Testing We Performed
 
 In practice, we partially followed our planned approach:
 
 - TDD was used for some components, particularly smaller logic-based features, but not consistently across the entire project  
-- Unit testing was applied to key functionality of the site
-- Integration and system testing were performed
+- Unit testing was applied to key functionality of the site  
+- **Integration testing was performed by testing interactions between components such as the frontend, backend, and database. For example, we tested adding items to the cart, ensuring data was correctly passed and stored.**  
+- **System testing was performed by manually testing complete user workflows, such as browsing products, adding items to the cart, and completing the checkout process to ensure the system worked end-to-end.**  
 - Acceptance testing was conducted through client demonstrations at the end of each iteration  
 
 ## Client Feedback (Iteration 1)
