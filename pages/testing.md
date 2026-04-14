@@ -12,7 +12,7 @@ At the start of the project, we planned to use a structured testing strategy inc
 
 We also planned to use a variety of test data, including valid, invalid, and boundary inputs, to ensure reliability.
 
-## Actual Testing Performed
+## The Testing We Performed
 
 In practice, we partially followed our planned approach:
 
