@@ -8,7 +8,7 @@ FeedMe's architecture was designed with scalability, maintainability, and user e
 
 <img width="602" height="939" alt="architecturaldesign" src="https://github.com/user-attachments/assets/4d9909d1-c7a7-4869-947d-07c8d24a7fba" />
 
-This architecture shows a simple, cloud-based setup for our FeedMe food app. The frontend (user’s device) communicates securely through Amazon CloudFront, which handles caching and protection before routing requests to the backend. Payments are processed via Stripe, while core application data (orders, users, restaurants) is stored in an Amazon RDS instance, with phpMyAdmin used for database administration.
+This architecture shows a simple, cloud-based setup for our FeedMe food app. The frontend (user’s device) communicates securely through Amazon CloudFront, which handles caching and protection before routing requests to the backend. Payments are processed via Stripe, while core application data (orders, users, restaurants) is stored in an Amazon RDS instance, with phpMyAdmin used for database administration. The website itself is hosted via an AWS EC2 instance.
 
 ## Database Design
 
