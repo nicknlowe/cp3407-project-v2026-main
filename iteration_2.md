@@ -38,5 +38,5 @@ Update this at least once per week
 * 4 weeks left, 10 days of estimated amount of work
 * 2 weeks left, 7 days
 * 1 week left, 4 days
-* 0 weeks left, 1 days completed (US07 not completed)
-* Actual Velocity: 0.75 (9 of 10 estimated days completed)
+* 0 weeks left, 1 day remaining (US07 not completed)
+* Actual Velocity: 0.08 
