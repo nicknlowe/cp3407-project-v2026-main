@@ -6,7 +6,7 @@ Checklist:
 
 * Assumed Velocity: 0.7 
 * Number of developers: 4
-* Total estimated amount of work: 34 days
+* Total estimated amount of work: 21 days
 
 User stories or tasks (see chapter 4):
 1. [User Story 01 - Users can search for food](user_stories/user_story_01.md), priority High, 3 days 
