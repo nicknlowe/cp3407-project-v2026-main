@@ -134,3 +134,15 @@ Overall, the page balances storytelling with minimal design elements to keep the
 ### Support Page
 
 <img width="1928" height="1199" alt="image" src="https://github.com/user-attachments/assets/f5478273-501a-41cd-ad61-39ce6ac8dd3b" />
+
+The Support page wireframe is designed to provide users with clear and accessible ways to get in touch with the platform.
+
+The page begins with a prominent heading (“Stay in touch”), which immediately signals the purpose of the page and encourages users to reach out for help or enquiries.
+
+Beneath the heading, there are clearly structured placeholders for key contact information, including email, phone number, and physical address. These details are arranged in a clean and easy-to-scan format, allowing users to quickly identify the most suitable method of communication depending on their needs. 
+
+Further down the page, a Google Maps location placeholder is included to visually represent the business’s physical presence. This helps users easily locate the organisation and adds an extra layer of trust and legitimacy to the platform.
+
+At the bottom of the page, a small FAQ section is provided to address common questions and reduce the need for direct support requests. 
+
+Overall, the Support page is designed to balance clarity and convenience, making it easy for users to find help while reinforcing transparency and reliability.
