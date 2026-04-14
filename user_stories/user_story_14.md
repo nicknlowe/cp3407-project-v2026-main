@@ -50,6 +50,9 @@ During checkout testing, a bug was discovered where the last logged-in user's de
 * No previous user data should persist after logout or session change.
 
 # Completed:
-* Screenshots showing autofill working correctly.
-* Comparison of broken vs fixed version.
-* Evidence of correct behaviour across multiple user sessions.
+Before:
+<img width="371" height="480" alt="image" src="https://github.com/user-attachments/assets/06148316-10af-4261-9725-29a61fba8d59" />
+After:
+<img width="384" height="551" alt="image" src="https://github.com/user-attachments/assets/89eae8fa-cb13-4ad2-a5d6-27bc0b4a437a" />
+
+
